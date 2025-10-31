@@ -52,6 +52,6 @@ Future Work
 
 Author:
 Abdallah AMR
-Data Analyst | Power BI Developer | SQL & Python
+(Data Analyst | Power BI Developer | SQL & Python)
 - LinkedIn: https://www.linkedin.com/in/abdallah-amr-742070319
 - GitHub: https://github.com/abdallah22amr
