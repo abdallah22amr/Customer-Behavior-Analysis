@@ -50,8 +50,8 @@ Future Work
 - Automate ETL and data refresh
 - Explore advanced clustering techniques
 
-Author
+Author:
 Abdallah AMR
 Data Analyst | Power BI Developer | SQL & Python
-LinkedIn: https://www.linkedin.com/in/abdallah-amr-742070319
-GitHub: https://github.com/abdallah22amr
+- LinkedIn: https://www.linkedin.com/in/abdallah-amr-742070319
+- GitHub: https://github.com/abdallah22amr
