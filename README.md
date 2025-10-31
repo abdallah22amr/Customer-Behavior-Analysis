@@ -1,8 +1,8 @@
 Customer Behavior Analysis
 
 Project Overview
-This project analyzes customer shopping behavior to identify purchasing patterns, spending habits, and demographic impacts.
-Python was used for cleaning, SQL for analysis, and Power BI for visualization.
+- This project analyzes customer shopping behavior to identify purchasing patterns, spending habits, and demographic impacts.
+- Python was used for cleaning, SQL for analysis, and Power BI for visualization.
 
 Objectives
 - Clean and preprocess raw data
